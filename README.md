@@ -1,8 +1,8 @@
 - 🔭 I’m Scott Hanselman
-- 🌱 I’ve blogged here for nearly 20 years http://hanselman.com/blog
-- 👯 I’ve podcasted here for 15 years http://hanselminutes.com
-- 🤔 I’m on Twitter http://twitter.com/shanselman
-- 💬 and I like making YouTubes http://youtube.com/shanselman
+- 🌱 I’ve blogged here for nearly 20 years https://hanselman.com/blog
+- 👯 I’ve podcasted here for 15 years https://hanselminutes.com
+- 🤔 I’m on Twitter https://twitter.com/shanselman
+- 💬 and I like making YouTubes https://youtube.com/shanselman
 - 📫 How to reach me: https://www.hanselman.com/about/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I've been using an Open Source Artificial Pancreas 24hrs a day since 2016
