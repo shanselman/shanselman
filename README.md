@@ -6,3 +6,4 @@
 - 📫 How to reach me: https://www.hanselman.com/about/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I've been using an Open Source Artificial Pancreas 24hrs a day since 2016
+![Scotts's github stats](https://github-readme-stats.vercel.app/api?username=shanselman&show_icons=true)
